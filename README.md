@@ -1,9 +1,13 @@
 # MCC_Data_acquisition
 DC Motor data acquisition files recorded from a data acquisition board conneted to the system  
-// ****************************************************************************************
-// BACHA Abdelkabir - Equipe EAP- Laboratoire LISER - ENSEM - UH2C 
-// ****************************************************************************************
+****************************************************************************************
+ BACHA Abdelkabir - OSIL Team- Laboratoire LRI - ENSEM - University of Hassan II - Casablanca 
+ ****************************************************************************************
 
+This work was used in my phd thesis. Please refer to link below to consult a journal that was published in the International Journal of 
+Computer Applications - FCS® (Foundation of Computer Science). If you want to use this work in your research please cite this article.  
+The link : https://www.ijcaonline.org/archives/volume124/number5/22104-22104-2015905484 
+DOI : 	10.5120/ijca2015905484
 
 
 On cite parmi les variables qu’on a pu mesurer : 
